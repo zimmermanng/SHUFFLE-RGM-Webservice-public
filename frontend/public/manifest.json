@@ -1,0 +1,15 @@
+{
+  "short_name": "SHUFFLE RGM",
+  "name": "SHUFFLE-RGM-Prüfwerkzeug",
+  "icons": [
+    {
+      "src": "shuffle-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#004a94",
+  "background_color": "#f7f9fc"
+}

@@ -1,0 +1,66 @@
+:root {
+  color-scheme: light;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  --font-mono: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.125rem;
+  --radius-pill: 999px;
+  --shadow-sm: 0 2px 8px rgba(16, 24, 40, 0.06);
+  --shadow-md: 0 8px 24px rgba(16, 24, 40, 0.08);
+  --shadow-lg: 0 12px 32px rgba(16, 24, 40, 0.12);
+  --content-max: 1200px;
+  --content-narrow: 1120px;
+  --page-gutter: clamp(1rem, 2vw, 1.5rem);
+  --header-height: 4.75rem;
+  --color-text: #1f2937;
+  --color-text-muted: #475467;
+  --color-text-soft: #667085;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f8fafc;
+  --color-surface-subtle: #f4f7fb;
+  --color-border: #d0d5dd;
+  --color-border-strong: #98a2b3;
+  --color-focus: #111827;
+  --color-info-bg: #eef6ff;
+  --color-success-bg: #f4fbf6;
+  --color-warning-bg: #fff4db;
+  --color-danger: #b42318;
+  /* Shuffle theme variables */
+
+  --brand-bg: #f7f9fc;
+  --brand-surface: #ffffff;
+  --brand-primary: #324b8c;
+  --brand-primary-strong: #25396c;
+  --brand-primary-soft: #eef2fb;
+  --brand-accent: #004a94;
+  --brand-accent-strong: #003a75;
+  --brand-accent-soft: rgba(0, 74, 148, 0.12);
+  --brand-nav: #e6ecf3;
+  --brand-highlight: #e6ecf3;
+  --brand-button-text: #ffffff;
+  /* project compatibility variables */
+
+  --footer-color: #e6ecf3;
+  --navBar-color: #e6ecf3;
+  --button-color: #004a94;
+  --details-color: #324b8c;
+  --letter-color: #ffffff;
+  --range_1-color: #e21437;
+  --range_2-color: #1e7f5e;
+  --range_3-color: #fec705;
+  --range_4-color: #324b8c;
+}
